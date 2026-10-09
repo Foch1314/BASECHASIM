@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 140">
+ <defs>
+ <symbol id="arms" viewBox="0 0 160 140"><g fill="none" stroke="#345777" stroke-linejoin="round" stroke-width="12"><path d="M33 36L81 84L129 31"/><path d="M81 84L91 116"/></g><g fill="#ecf5fd" stroke="#7296b5" stroke-width="8"><circle cx="31" cy="35" r="16"/><circle cx="130" cy="31" r="16"/><circle cx="92" cy="116" r="13"/></g><g fill="#102640"><circle cx="31" cy="35" r="7"/><circle cx="130" cy="31" r="7"/></g></symbol>
+ <symbol id="bushing" viewBox="0 0 160 140"><g transform="translate(80 70)"><circle r="54" fill="#7b94ab" stroke="#41617f" stroke-width="8"/><circle r="40" fill="#233c55" stroke="#b5cddd" stroke-width="7"/><circle r="24" fill="#102942" stroke="#9db8c9" stroke-width="6"/><circle r="10" fill="#dfeaf2"/></g></symbol>
+ <symbol id="kits" viewBox="0 0 160 140"><g fill="none" stroke="#3c5c79" stroke-linecap="round" stroke-linejoin="round" stroke-width="11"><path d="M23 30L67 79L130 26M67 79L72 109"/><path d="M30 119L70 102L129 117"/></g><g fill="#ecf5fd" stroke="#7394af" stroke-width="7"><circle cx="24" cy="30" r="12"/><circle cx="130" cy="26" r="12"/><circle cx="72" cy="110" r="11"/><circle cx="30" cy="119" r="11"/><circle cx="129" cy="117" r="11"/></g></symbol>
+ <symbol id="joints" viewBox="0 0 160 140"><path d="M68 18h24v51H68z" fill="#9bafc1" stroke="#4b6a85" stroke-width="5"/><path d="M56 58Q80 37 104 58L115 91L101 112H59L45 91Z" fill="#314d67" stroke="#748eaa" stroke-width="7"/><ellipse cx="80" cy="117" rx="40" ry="14" fill="#a5baca" stroke="#597892" stroke-width="6"/><path d="M68 29H92M68 40H92M68 51H92" stroke="#476682" stroke-width="4"/></symbol>
+ </defs>
+</svg>
